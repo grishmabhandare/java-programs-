@@ -1,1 +1,1 @@
-
+-[Prime Checker](https://github.com/grishmabhandare/java-programs-/blob/main/6c_PrimeCheckServlet/prime%20or%20not%20(1).png)
